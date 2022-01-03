@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://discordapp.com/users/705698565279842376">
-    <img src="https://images-ext-2.discordapp.net/external/JEN2_t7CgUIvfUbFN_T2bYk4q0QFPTdZ7aqU3PPDRXg/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/705698565279842376/b94cea6f0a3a61adc44f5b2cef3eec3d.webp" alt="Logo" width="80" height="80">
+    <img src="https://images-ext-2.discordapp.net/external/JEN2_t7CgUIvfUbFN_T2bYk4q0QFPTdZ7aqU3PPDRXg/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/705698565279842376/b94cea6f0a3a61adc44f5b2cef3eec3d.webp" alt="Logo" width="80" height="80" border-radius="40">
   </a>
 
   <h3 align="center">Simple minimalistic portfolio</h3>

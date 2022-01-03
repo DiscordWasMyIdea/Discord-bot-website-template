@@ -22,7 +22,7 @@
   <p align="center">
     An awesome website for your discord bots!
     <br />
-    <a href=""><strong>View the website»</strong></a>
+    <a href="https://discordwasmyidea.github.io/Discord-bot-website-template/"><strong>View the website»</strong></a>
     <br />
     <br />
     <a href="https://github.com/DiscordWasMyIdea/Discord-bot-website-template">The repo</a>

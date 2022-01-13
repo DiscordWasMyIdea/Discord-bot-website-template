@@ -399,7 +399,6 @@ header {
     width: 98%;
     border-radius: 15px;
     background-color: var(--third-color);
-    overflow: hidden;
     margin-bottom: 1%;
     ;
 }
